@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "119028811533",
+    "project_id": "demont-abc0a",
+    "storage_bucket": "demont-abc0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119028811533:android:c8be517165a76395001244",
+        "android_client_info": {
+          "package_name": "com.example.demoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119028811533-5k6oddp6oset5d5aq6o9a3r3rrd63avj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiiJqEiNb6mSZVCpx3YQ5QHxNOXvKXOPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119028811533-5k6oddp6oset5d5aq6o9a3r3rrd63avj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
